@@ -1,6 +1,6 @@
 ---
 title: Bitcoin Plunge? How the Worst was Sidestepped
-date: 2017-12-24T20:10:27+07:00
+date: 2017-12-24T20:24:36+07:00
 description: >-
   This is a continuation of the posts describing how I designed a Bitcoin
   trading campaign
@@ -9,7 +9,7 @@ This is a continuation of the posts describing how I designed a Bitcoin trading 
 
 ![Figure 1: Bitcoin Pre-plunge](/img/24th-december-2017-bitcoin-pre-plunge.jpg)
 
-_Figure 1: Bitcoin Pre-plunge_
+Figure 1: Bitcoin Pre-plunge
 
 
 
