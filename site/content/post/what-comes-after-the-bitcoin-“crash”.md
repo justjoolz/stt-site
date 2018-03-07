@@ -1,7 +1,15 @@
 ---
 title: What Comes After the Bitcoin “Crash”?
 date: 2017-12-23T17:00:00.000Z
-description: 'This is the fifth post in the Bitcoin series. '
+description: >-
+  “It’s a new world! Cryptocurrencies are here to stay! This is the start of a
+  new paradigm – they will go up for (nearly) forever!”
+
+
+  If I heard the above cries too often beyond the inner circle of cryptocurrency
+  fanatics, I would become concerned. New paradigm cries are extremely ominous
+  in bubbles. Thankfully, after 22nd December 2017, apocalypse may have been
+  postponed.
 ---
 This is the fifth post in the Bitcoin series. Here are the others, should you wish to catch up:
 
@@ -13,7 +21,7 @@ Post 3: [How the Worst of the Bitcoin Plunge was Avoided](/post/bitcoin-plunge-h
 
 Post 4: [Catching the Low of the Bitcoin Plunge – A Trade Not Taken](/post/catching-the-low-of-the-bitcoin-plunge/)
 
-“It’s a new world! Cryptocurrencies are here to stay! This is the start of a new paradigm – they will go up for (nearly) forever!”
+> “It’s a new world! Cryptocurrencies are here to stay! This is the start of a new paradigm – they will go up for (nearly) forever!”
 
 If I heard the above cries too often beyond the inner circle of cryptocurrency fanatics, I would become concerned. New paradigm cries are extremely ominous in bubbles. Thankfully, after 22nd December 2017, apocalypse may have been postponed. With traders definitely feeling shaken after the volatility roller coaster shown in Figure 1, it will be awhile before we can decide if confidence has been permanently damaged.
 
