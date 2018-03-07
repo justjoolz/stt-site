@@ -1,6 +1,6 @@
 ---
 title: This is How We Traded Bitcoin
-date: 2017-12-24T20:00:50+07:00
+date: 2017-12-24T13:00:50.000Z
 description: >-
   It has been awhile since I have posted, so here is a quick review of Bitcoin’s
   exciting year. I have been watching it with some interest, and got wrapped up
@@ -17,22 +17,14 @@ The key is to realise that in an bubble, there is no telling how far it could go
 
 Figure 1: Bitcoin Entries
 
-
-
 I would also love to tell you that we held the position all the way through, never taking profits. That is not true. Each swing trade was scaled out partially very quickly, reducing the size by a third or half. This was because we were cognizant of the fact the situation could reverse very quickly, and the idea was to take partial profits quickly, leveraging ourselves into a position where it was risk-free as quickly as possible. In fact, by the time we reached the right edge of this chart, the trading campaign was essentially risk-free. The exposure and risk was entirely upon the profits gained.
-
-
 
 This was just as well, as we were only a short distance away from the pre-Christmas plunge, which I will talk about next…
 
-
-
 Good trading!
 
+**Kaye Lee**
 
+_Head Trader Consultant_
 
-Kaye Lee
-
-Head Trader Consultant
-
-http://www.straighttalktrading.com
+[www.straighttalktrading.com](https://www.straighttalktrading.com)
