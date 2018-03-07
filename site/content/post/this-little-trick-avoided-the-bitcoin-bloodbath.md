@@ -1,9 +1,14 @@
 ---
 title: This Little Trick Avoided the Bitcoin Bloodbath
-date: 2017-12-24T20:08:14+07:00
+date: 2017-12-24T13:08:14.000Z
 description: >-
   There was a panic as Bitcoin and other cryptocurrencies began to plunge as we
   moved into the weekend heralding Christmas in 2017.
+
+
+  With a trading campaign fully loaded up, I was ignoring most of the cries of
+  “Bubble!” that pervaded the marketplace. The charts would tell me how to
+  react, and it was beginning to tell me something slightly worrying....
 ---
 There was a panic as Bitcoin and other cryptocurrencies began to plunge as we moved into the weekend heralding Christmas in 2017. This is part 2 of a Bitcoin series. If you have not read it yet, the trades taken during the Bitcoin campaign are shown here:
 
