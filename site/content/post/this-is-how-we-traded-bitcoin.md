@@ -1,6 +1,6 @@
 ---
 title: This is How We Traded Bitcoin
-date: 2018-03-07T13:00:50.185Z
+date: 2017-12-24T20:00:50+07:00
 description: >-
   It has been awhile since I have posted, so here is a quick review of Bitcoin’s
   exciting year. I have been watching it with some interest, and got wrapped up
